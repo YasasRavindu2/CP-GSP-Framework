@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <apache-common-lang.version>3.7</apache-common-lang.version>
+        <apache-common-lang.version>3.18.0</apache-common-lang.version>
         <model-mapper.version>1.1.0</model-mapper.version>
         <querydsl.version>4.1.4</querydsl.version>
         <spring-cloud.version>Greenwich.M3</spring-cloud.version>
